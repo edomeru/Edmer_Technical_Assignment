@@ -1,5 +1,2 @@
-<video controls width="640">
-  <source src="Edmer_Technical_Assignment/app/src/main/res
-/mipmap-hdpi/demo-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](https://img.youtube.com/vi/L4SfwkQWskk/maxresdefault.jpg)](https://www.youtube.com/watch?v=L4SfwkQWskk)
+
